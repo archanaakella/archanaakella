@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @archanaakella
-- 👀 I’m interested in Machine learning, Data Science, full stack development and web.
+- 👀 I’m interested in Machine learning and Data Science.
 - 🌱 I’m currently learning Deeplearning and Nlp
 - 📫 How to reach me "akellaarchanas@gmail.com"
